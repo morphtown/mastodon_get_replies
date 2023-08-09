@@ -1,8 +1,8 @@
 {
   "server": "morph.todon.de",
-  "home-timeline-length": 200,
-  "max-followings": 80,
-  "max-bookmarks": 80,
-  "max-favourites": 80,
+  "home-timeline-length": 100,
+  "max-followings": 40,
+  "max-bookmarks": 40,
+  "max-favourites": 40,
   "from-notifications": 1
  }
